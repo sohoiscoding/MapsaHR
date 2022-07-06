@@ -4,24 +4,13 @@
 }
 *{
     font-family: Vazirmatn;
+    direction: rtl;
 }
 html{
-    direction: rtl;
+    
 }
 
 body{
     width: 100vw;
     height: 100vh;
-}
-div {
-    background-color: cadetblue;
-    border: 3px solid black;
-}
-
-.header {
-    height: 100px;
-}
-
-.sub-header {
-    height: 100px;
 }
